@@ -9,8 +9,8 @@
   </head>
   <body>
     <div class="container">
-    <h1 class="text-center">MAHASISWA MSIB UMSU</h1>
-    <table class="table table-striped table-hover">
+    <h1 class="text-center my-3">MAHASISWA MSIB UMSU</h1>
+    <table class="table table-striped-columns table-hover">
         <thead>
             <tr>
                 <th scope="col">Nim</th>
